@@ -6,10 +6,10 @@ import (
 
 var hh = 1
 
-func sayhh(hh string) {
+func Sayhh(hh string) {
 	fmt.Print(hh)
 }
 
-func sayhello(hh string) {
+func Sayhello(hh string) {
 	fmt.Print("hello world", hh)
 }
